@@ -1,0 +1,17 @@
+﻿Imports System.Environment
+Imports System.Net
+Imports System.IO
+Public Class Form1
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        'get subnet ip adressbar 
+        Dim strHostName As String
+        Dim strIPAddress As String
+        strHostName = System.Net.Dns.GetHostName()
+        strIPAddress = System.Net.Dns.GetHostByName(strHostName).AddressList(0).ToString()
+        TextBox2.Text = strIPAddress
+        ' Lable_IPAddress.Text = strIPAddress
+    End Sub
+End Class
+
+
+https://www.codeproject.com/Tips/828270/Getting-all-the-ip-addresses-on-subnet
