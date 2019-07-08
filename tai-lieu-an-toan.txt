@@ -1,0 +1,130 @@
+﻿1: thời gian lưu trữ lệnh công tác là bao lâu?
+=> 1 tháng
+
+2: Kết cấu và chất lượng thang di động trong trường hợp nào là sai quy định?
+=> Bậc thang được phép đóng bằng đinh; không cần dùng dây thép buộc, xoắn chắc chắn ở hai đầu và giữa thang tre.
+
+3: Khi leo (trèo) cột điện bê tông ly tâm bằng ty leo, đường kính trục chính ty leo không được nhỏ hơn:
+=> 16 mm
+
+4: Những công việc nào sau đây được phép làm theo lệnh công tác:
+=> Xử lý sự cố thiết bị, đường dây do nhân viên vận hành thực hiện trong ca trực, hoặc những người khác thực hiện dưới sự giám sát của nhân viên vận hành.
+
+5: Cứu chữa nạn nhân như thế nào khi tách nạn nhân khỏi mạch điện mà nạn nhân đã tắt thở (tim ngừng đập, toàn thân co giật giống như chết)?
+=> Câu a và b.
+
+6: Khi làm việc trên cao, người công nhân cần có những yêu cầu nào sau đây?	
+=> Cả a và b.
+
+7: Khi làm xong công việc, để kết thúc công việc thì đơn vị công tác phải thực hiện những nội dung nào sau đây?
+=> Câu a và b.
+
+8: Để đảm bảo an toàn điện, cấm ra mệnh lệnh hoặc giao công việc cho những người:
+=> Chưa được huấn luyện, kiểm tra đạt yêu cầu Quy trình an toàn điện và các quy trình có liên quan,
+2 Khi công việc phải cử người giám sát an toàn điện thì trách nhiệm giám sát an toàn điện thuộc về ai?
+C. Người giám sát an toàn điện.
+
+3 Yêu cầu tối thiểu đối với người huấn luyện phần thực hành để cấp thẻ an toàn điện và bậc an toàn điện ?
+B. Trình độ cao đẳng phù hợp với chuyên ngành huấn luyện và có ít nhất 5 năm kinh nghiệm.
+
+4 Thời hạn thí nghiệm định kỳ găng tay cách điện hạ áp là bao nhiêu?	
+B. 6 tháng
+
+5 Trường hợp nào sau đây phải thực hiện các biện pháp an toàn?
+D. Cả a, b và c.
+
+6 Người ra lệnh công tác phải là?
+C. Người có bậc 5 an toàn điện và được công nhân chức danh “Người ra lệnh công tác”.
+
+7 Theo quy định, người thao tác (TT) và người giám sát thao tác (GS) phải có bậc an toàn điện tối thiểu bao nhiêu ?
+C. Người TT phải có bậc 3, người GS phải có bậc 4.
+
+8 Sau khi làm việc xong, muốn đóng điện lại vào thiết bị đã cắt điện thì phải thỏa mãn các điều kiện nào sau đây?
+D. Cả a, b và c.
+
+9 Khi làm việc ở trên cao, người công nhân cần phải làm gì?
+D. Cả a, b và c.
+
+10 Để đảm bảo an toàn điện, cấm ra mệnh lệnh hoặc giao công việc cho những người:
+A. Chưa được huấn luyện, kiểm tra đạt yêu cầu Quy trình an toàn điện và các quy trình có liên quan,
+5 Người lao động có bậc an toàn điện 1/5, được phép làm những phần công việc nào sau đây:
+D. Cả a và c.
+
+12 : Thời gian huấn luyện an toàn điện lần đầu cho người lao động khi mới được tuyển dụng ít nhất là:
+B. 24 giờ
+
+14 Khi công tác không có rào chắn, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 110kV là:
+C. 1,5 m
+
+16 Người nào có trách nhiệm kiểm tra việc thực hiện giám sát đảm bảo an toàn trong khi làm việc?
+C. Người sử dụng lao động, người làm công tác an toàn của đơn vị làm công việc.
+
+19 Nếu phát hiện nhân viên có dấu hiệu vi phạm dẫn đến mất an toàn, người chỉ huy trực tiếp phải làm gì?	
+C. Có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc.
+
+20 Người lãnh đạo công việc có trách nhiệm nào sau đây?
+D. Phối hợp hoạt động của các đơn vị công tác, khi công việc do nhiều đơn vị công tác của cùng một tổ chức hoạt động điện lực thực hiện theo các phiếu công tác để đảm bảo an toàn.
+
+24 Chức danh nào trong phiếu công tác phải chịu trách nhiệm chất lượng của các dụng cụ, trang bị an toàn sử dụng trong khi làm việc.
+C. Người chỉ huy trực tiếp.
+
+25 Đội công tác làm việc trên đường dây cao - hạ áp đi chung, một công nhân trên cột bị điện máy phát khách hàng phát ngược lên lưới dẫn đến giật điện. Qua tình huống này vi phạm nào là nguyên nhân trực tiếp dẫn đến tai nạn?
+A. Đơn vị công tác không thực hiện đầy đủ các biện pháp an toàn cô lập khu vực công tác để ngăn ngừa các nguồn điện có thể dẫn đến vị trí công tác.
+
+26 Người chỉ huy trực tiếp đơn vị công tác phải:	
+B. Có mặt liên tục tại nơi làm việc, giám sát và có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc. 
+
+27 Trong thời gian làm việc theo phiếu công tác hoặc lệnh công tác, được phép:	
+C. Nghỉ giải lao
+
+28 Khi treo người có tải trọng lên toàn bộ dây choàng của dây đeo an toàn thì dây choàng phải đảm bảo điều kiện gì?
+B. Ôm vòng qua cột hoặc kết cấu vững chắc của cột và 2 móc chịu lực của dây choàng được móc vào 2 vòng móc 2 bên của dây lưng.
+
+29 Khi công tác không có rào chắn, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 35kV là:	
+D. 1m
+
+30 Những công việc nào sau đây được xem là công việc làm gần đường dây đang vận hành:
+D. Cả a, b và c đều đúng.
+
+31 Những việc nào thuộc trách nhiệm của nhân viên đơn vị công tác:	
+D. Cả b và c.
+
+33 Biện pháp an toàn phải thực hiện khi làm những công việc trên đường dây hạ áp đi chung cột với đường dây cao áp đến 35kV đã được cắt điện?
+D. Cả a và c
+
+34 Trong mọi trường hợp, nhiệm vụ thao tác được cho là hoàn thành khi nào?	
+C. Khi người thao tác và người giám sát ký xác nhận hoàn thành vào phiếu thao tác
+
+35 Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện:
+A. Có thể dùng kìm cách điện, búa, rìu cán bằng gỗ để cắt, chặt đứt dây điện đang gây ra tai nạn…
+
+36 Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện cao áp thì người cứu nạn nhân phải thực hiện nội dung nào?
+A. Mang ủng, găng tay cách điện và dùng sào cách điện để gạt hoặc đẩy nạn nhân ra khỏi mạch điện.
+
+37 Khi thực hiện thay chì hạ áp lúc trời mưa nhỏ hạt trên đường dây đang mang điện, yêu cầu nào sau đây tuân thủ quy định an toàn cho công tác:
+C. Phải có 2 người thực hiện và phải có đầy đủ dụng cụ an toàn như: kìm cách điện, găng cách điện tấm, cách điện (để che chắn không chạm vào dây điện). Quần áo người công nhân phải khô ráo, cột có chỗ đứng chắc chắn, 
+
+38 Cho phép chuẩn bị biện pháp an toàn như thế nào để làm việc trên đường dây nhánh rẽ dài không quá 200m vào 01 trạm biến áp phụ tải ?
+A. Làm một bộ nối đất phía nguồn điện đến và cắt Dao cách ly hoặc FCO vào máy biến áp.
+
+39 Khi thực hiện cho phép làm việc phải tuân thủ nội dung nào?
+D. Cả a và c.
+
+40 Vượt chướng ngại vật khi leo cột, sử dụng móc phụ của dây đeo an toàn theo nguyên tắc nào?
+D. Thực hiện a và b.
+
+41 Người nào phải chịu trách nhiệm nếu để xảy ra mất an toàn điện do lỗi không thực hiện giám sát nhân viên đơn vị công tác trong khi tiến hành công việc?
+D. Cả a và b.
+
+42 Trường hợp mở cửa lưới để kiểm tra thiết bị đang vận hành trong trạm điện, phải thực hiện theo những yêu cầu nào?
+D. Cả a, b và c.
+
+43 Khi công việc không phải cử người giám sát an toàn điện, thì việc giám sát an toàn điện và an toàn trong khi làm việc đối với tất cả nhân viên đơn vị công tác thuộc trách nhiệm của người nào?	
+A. Người chỉ huy trực tiếp.
+
+44 Khi có nhiều đơn vị công tác trên cùng một phạm vi có cắt điện thì việc làm nào sau đây là đúng?
+A. Mỗi đơn vị được cấp 1 phiếu công tác và phải làm nối đất độc lập cho đơn vị công tác của mình.
+
+45: Yêu cầu tối thiểu đối với người huấn luyện phần lý thuyết để cấp thẻ an toàn điện và bậc an toàn điện ?
+A. Trình độ đại học phù hợp với chuyên ngành huấn luyện và có ít nhất 5 năm kinh nghiệm.
+
